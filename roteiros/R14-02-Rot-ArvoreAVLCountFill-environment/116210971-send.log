@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-07-09T16:05:21.093-0300</date>
+  <logger>LUCAS GOMES AIRES</logger>
+  <level>FINE</level>
+  <message>File 116210971-LUCAS GOMES AIRES.zip was received. It was sent by LUCAS GOMES AIRES from IP 192.168.25.34</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-07-09T23:26:13.973-0300</date>
+  <logger>LUCAS GOMES AIRES</logger>
+  <level>FINE</level>
+  <message>File 116210971-LUCAS GOMES AIRES.zip was received. It was sent by LUCAS GOMES AIRES from IP 192.168.25.9</message>
+</record>
